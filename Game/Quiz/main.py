@@ -1,8 +1,7 @@
-from Quiz import *
+from QuizGame import Question
 from Quiz_data import *
 from Quiz_brain import *
 from UI import *
-
 
 question_bank = []
 for question in question_data:
